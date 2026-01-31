@@ -29,5 +29,5 @@ Install required packages:
 pip install numpy scikit-learn matplotlib
 Then run the notebook or Python scripts to reproduce results.
 
-Author:
-Your Name
+
+Your 
